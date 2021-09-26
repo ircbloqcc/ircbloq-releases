@@ -8,6 +8,7 @@
 	<a target="_blank" href="https://github.com/ircbloqcc/ircbloq-releases/releases/tag/V4.1.1">
     <img src="https://img.shields.io/badge/ircBloqV4-V4.1.1-blue.svg">
      <img src="https://img.shields.io/github/downloads/ircbloqcc/ircbloq-releases/total">
+
 </a>
 
 **Click this link and try online version** 
@@ -16,7 +17,10 @@
 
 _**Note: For Online Version, If ircBloqV4-Link is not installed, you will not be able to connect hardware devices, select third-party devices, and load device extensions. If you need to use the full function, please download and install ircBloqV4-Link from Below Links and open it.**_
 
-**Screenshots** 
+## Getting Start
+
+Visit the wiki: [https://ircbloqcc.github.io/wiki](https://ircbloqcc.github.io/wiki/)
+
 
 ![Screenshot (25)](https://user-images.githubusercontent.com/86342573/127304813-f6045374-11c6-4cc9-9545-1f02d9e58679.png)
 
