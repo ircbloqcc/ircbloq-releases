@@ -1,10 +1,14 @@
-![GitHub all releases](https://img.shields.io/github/downloads/ircbloqcc/ircbloq-releases/total)
+<h1 align="center">
+  <img src="https://user-images.githubusercontent.com/86342573/126527919-99bde8ef-8fc7-4d3e-93db-905a8cedadde.jpeg" alt="ircBloqV4">
+  <br>IrcBloqV4<br>
 
-# ircbloqV4
-**Latest Version - V4.1.1**
+</h1>
 
-![images (1) (11)](https://user-images.githubusercontent.com/86342573/126527919-99bde8ef-8fc7-4d3e-93db-905a8cedadde.jpeg)
-
+  <p align="center">
+	<a target="_blank" href="https://github.com/ircbloqcc/ircbloq-releases/releases/tag/V4.1.1">
+    <img src="https://img.shields.io/badge/ircBloqV4-V4.1.1-blue.svg">
+     <img src="https://img.shields.io/github/downloads/ircbloqcc/ircbloq-releases/total">
+</a>
 
 **Click this link and try online version** 
  
