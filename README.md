@@ -6,7 +6,7 @@
 
   <p align="center">
 	<a target="_blank" href="https://github.com/ircbloqcc/ircbloq-releases/releases/tag/V4.1.5">
-    <img src="https://img.shields.io/badge/ircBloqV4-V4.1.4-blue.svg">
+    <img src="https://img.shields.io/badge/ircBloqV4-V4.1.5-blue.svg">
      <img src="https://img.shields.io/github/downloads/ircbloqcc/ircbloq-releases/total">
 
 </a>
